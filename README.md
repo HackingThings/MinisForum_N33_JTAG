@@ -1,7 +1,7 @@
 # MinisForum_N33_JTAG
 
 Required items:
-1. A MinisForum N33 Mini PC - purchase link : https://www.amazon.com/gp/product/B0851W2D8R
+1. A MinisForum N33 Mini PC
 2. BIOS SPI Programmer with 1.8v support , for example: https://www.amazon.com/dp/B07VNVVXW6
 3. USB DCI capable cable , DIY or DataPro , for example https://www.datapro.net/products/usb-3-0-super-speed-a-a-debugging-cable.html
 4. A host computer that is Intel 6th generation and above (for built-in DCI support)
